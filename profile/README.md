@@ -164,25 +164,46 @@ Expert PLC selection & logic programming — AutomationDirect CLICK, BRX/Do-more
 
 <br/>
 
-```
- ┌──────────────────────────────────────────────────────────────────────────┐
- │                    CCAZ Digital Transformation Roadmap                   │
- │                                                                         │
- │   PHASE 1               PHASE 2                PHASE 3                  │
- │   Quick Wins             Core Platform          Intelligence            │
- │   ─────────             ─────────────          ────────────             │
- │                                                                         │
- │   ▸ Job Status           ▸ ERP Integration      ▸ AI-Powered BOM       │
- │     Dashboard            ▸ Production             Builder               │
- │   ▸ Customer               Scheduling           ▸ Business              │
- │     Follow-Up Tool       ▸ Shop Floor              Intelligence         │
- │   ▸ Estimate Intake        Digitization          ▸ Customer Portal      │
- │     Portal               ▸ Inventory             ▸ Predictive           │
- │   ▸ Call Intelligence      Optimization            Analytics            │
- │                                                                         │
- │   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Phase 1    │
- └──────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+<table>
+<tr>
+<th>⚡ Phase 1 — Quick Wins</th>
+<th>🔧 Phase 2 — Core Platform</th>
+<th>🧠 Phase 3 — Intelligence</th>
+</tr>
+<tr>
+<td>
+<code>████████░░░░░░</code> <strong>In Progress</strong>
+</td>
+<td>
+<code>░░░░░░░░░░░░░░</code> Planned
+</td>
+<td>
+<code>░░░░░░░░░░░░░░</code> Planned
+</td>
+</tr>
+<tr>
+<td valign="top">
+▸ Job Status Dashboard<br/>
+▸ Customer Follow-Up Tool<br/>
+▸ Estimate Intake Portal<br/>
+▸ Call Intelligence
+</td>
+<td valign="top">
+▸ ERP Integration<br/>
+▸ Production Scheduling<br/>
+▸ Shop Floor Digitization<br/>
+▸ Inventory Optimization
+</td>
+<td valign="top">
+▸ AI-Powered BOM Builder<br/>
+▸ Business Intelligence<br/>
+▸ Customer Portal<br/>
+▸ Predictive Analytics
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
