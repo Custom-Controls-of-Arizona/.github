@@ -1,3 +1,5 @@
+I removed the Unicode emojis and left the badge/logo icons and section images intact. Here’s the updated README based on your uploaded file.  ￼
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
      CUSTOM CONTROLS OF ARIZONA — GitHub Organization Profile
      .github/profile/README.md
@@ -27,7 +29,7 @@
 <tr>
 <td width="600">
 
-### 🏭 &nbsp; Who We Are
+### Who We Are
 
 **Custom Controls of Arizona (CCAZ)** is a Phoenix-based custom electrical panel manufacturer and systems integrator. Since 2002, we've partnered with OEMs and industrial clients to deliver precision-engineered control solutions — from UL508A-listed panel assemblies to turnkey SCADA systems and PLC programming.
 
@@ -45,7 +47,7 @@ This GitHub organization houses our internal development tools, automation utili
 
 <!-- ─── CAPABILITIES GRID ──────────────────────────────────────────────── -->
 
-<h2 align="center">⚡ &nbsp; What We Engineer</h2>
+<h2 align="center">What We Engineer</h2>
 
 <br/>
 
@@ -97,7 +99,7 @@ Expert PLC selection & logic programming — AutomationDirect CLICK, BRX/Do-more
 
 <!-- ─── TECH STACK ──────────────────────────────────────────────────────── -->
 
-<h2 align="center">🛠️ &nbsp; Technology Stack</h2>
+<h2 align="center">Technology Stack</h2>
 
 <br/>
 
@@ -115,7 +117,7 @@ Expert PLC selection & logic programming — AutomationDirect CLICK, BRX/Do-more
 
 <!-- ─── WHAT DRIVES US ──────────────────────────────────────────────────── -->
 
-<h2 align="center">🧭 &nbsp; The CCAZ Difference</h2>
+<h2 align="center">The CCAZ Difference</h2>
 
 <br/>
 
@@ -123,32 +125,26 @@ Expert PLC selection & logic programming — AutomationDirect CLICK, BRX/Do-more
 <table>
 <tr>
 <td align="center" width="160">
-<h3>🤝</h3>
 <strong>Integrity</strong><br/>
 <sub>We do what we say<br/>we're going to do.</sub>
 </td>
 <td align="center" width="160">
-<h3>📐</h3>
 <strong>Lean</strong><br/>
 <sub>Eliminate waste.<br/>Maximize client value.</sub>
 </td>
 <td align="center" width="160">
-<h3>📖</h3>
 <strong>Narrative</strong><br/>
 <sub>Building one of the<br/>Valley's largest panel shops.</sub>
 </td>
 <td align="center" width="160">
-<h3>⚙️</h3>
 <strong>Practices</strong><br/>
 <sub>Every team member<br/>is a leader.</sub>
 </td>
 <td align="center" width="160">
-<h3>👷</h3>
 <strong>People</strong><br/>
 <sub>Stand by our team.<br/>Stand by our product.</sub>
 </td>
 <td align="center" width="160">
-<h3>🏗️</h3>
 <strong>Place</strong><br/>
 <sub>Excellent workspaces<br/>build excellent panels.</sub>
 </td>
@@ -160,16 +156,16 @@ Expert PLC selection & logic programming — AutomationDirect CLICK, BRX/Do-more
 
 <!-- ─── DEVELOPMENT FOCUS ───────────────────────────────────────────────── -->
 
-<h2 align="center">🚀 &nbsp; Active Development Focus</h2>
+<h2 align="center">Active Development Focus</h2>
 
 <br/>
 
 <div align="center">
 <table>
 <tr>
-<th>⚡ Phase 1 — Quick Wins</th>
-<th>🔧 Phase 2 — Core Platform</th>
-<th>🧠 Phase 3 — Intelligence</th>
+<th>Phase 1 — Quick Wins</th>
+<th>Phase 2 — Core Platform</th>
+<th>Phase 3 — Intelligence</th>
 </tr>
 <tr>
 <td>
@@ -209,7 +205,7 @@ Expert PLC selection & logic programming — AutomationDirect CLICK, BRX/Do-more
 
 <!-- ─── REPO STRUCTURE ──────────────────────────────────────────────────── -->
 
-<h2 align="center">📂 &nbsp; Repository Guide</h2>
+<h2 align="center">Repository Guide</h2>
 
 <br/>
 
@@ -217,12 +213,12 @@ Expert PLC selection & logic programming — AutomationDirect CLICK, BRX/Do-more
 
 | Repository | Description | Status |
 |:---|:---|:---:|
-| **ccaz-job-dashboard** | Real-time job status tracking — replaces manual INCOMPLETE tracking via Fishbowl + Drive APIs | 🟢 Active |
-| **ccaz-follow-up-tool** | Smart customer follow-up CRM with automated reminders and pipeline visibility | 🟡 In Progress |
-| **ccaz-estimate-portal** | Unified intake form for estimates — single entry point to Project Tracker, Drive, and production | 🟡 In Progress |
-| **ccaz-call-intelligence** | AI-powered call capture — Plaud recordings → Zapier → Google Workspace automations | 📋 Planned |
-| **ccaz-sidekick-extensions** | Plugins and extensions for the Fishbowl SideKick platform | 📋 Planned |
-| **.github** | Organization profile, templates, and shared CI/CD workflows | 🟢 Active |
+| **ccaz-job-dashboard** | Real-time job status tracking — replaces manual INCOMPLETE tracking via Fishbowl + Drive APIs | Active |
+| **ccaz-follow-up-tool** | Smart customer follow-up CRM with automated reminders and pipeline visibility | In Progress |
+| **ccaz-estimate-portal** | Unified intake form for estimates — single entry point to Project Tracker, Drive, and production | In Progress |
+| **ccaz-call-intelligence** | AI-powered call capture — Plaud recordings → Zapier → Google Workspace automations | Planned |
+| **ccaz-sidekick-extensions** | Plugins and extensions for the Fishbowl SideKick platform | Planned |
+| **.github** | Organization profile, templates, and shared CI/CD workflows | Active |
 
 </div>
 
