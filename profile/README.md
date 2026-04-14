@@ -57,7 +57,7 @@ This GitHub organization houses our internal development tools, automation utili
 
 <td align="center" width="280">
 <br/>
-<img width="60" src="https://img.icons8.com/fluency/96/electrical-panel.png" alt="panels"/>
+<img width="60" src="<img width="60" src="https://cdn-icons-png.flaticon.com/512/3659/3659899.png" alt="control panel"/>
 <br/><br/>
 <strong>Custom Control Panels</strong>
 <br/><br/>
